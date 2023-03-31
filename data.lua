@@ -1,0 +1,1 @@
+require("entity/small-lamp-rgb")
