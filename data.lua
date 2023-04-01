@@ -1,1 +1,3 @@
-require("entity/small-lamp-rgb")
+require("entity.entities")
+require("entity.item")
+require("entity.recipe")
